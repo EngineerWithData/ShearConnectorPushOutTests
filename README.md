@@ -8,7 +8,7 @@
 
 We save the data as a json file at [here](./data/Pe.json) in the data folder. 
 
-This repository comes with a data viewer. You can use the viewer at https://github.com/hyeyoungkoh/shearstud.
+This repository comes with a data viewer. You can use the viewer at https://hyeyoungkoh.github.io/shearstud/.
 
 Or you clone this repository to run locally by running the following command
     
@@ -16,7 +16,7 @@ Or you clone this repository to run locally by running the following command
     cd shearstud/
     gatsby develop
 
-Visit the data viewer at http://localhost:8000
+Visit the data viewer at https://hyeyoungkoh.github.io/shearstud/
 
 ## References
 - M. Lawson, E. Aggelopoulos, R. Obiala, F. Hanus, C. Odenbreit, S. Nellinger, U. Kuhlmann, F. Eggert, D. Lam, X. Dai and T. Sheehan, "Development of improved shear connection rules in composite beams - Final Report," 2017.
