@@ -10,8 +10,8 @@ type: dataset
 authors:
   - given-names: Hyeyoung
     family-names: Koh
-    email: hyeyoung.koh@wisc.edu
-    affiliation: University of Wisconsin-Madison
+    email: hyeyoung.koh@wsu.edu
+    affiliation: Washington State University
     orcid: 'https://orcid.org/0000-0002-5795-4417'
   - given-names: Thomas
     family-names: Sputo
